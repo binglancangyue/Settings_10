@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Begin ethernet configure -->
+    <string name="eth_settings_title">以太网</string>
+    <string name="eth_toggle_title">使用以太网</string>
+    <string name="eth_settings">以太网设置</string>
+    <string name="eth_dhcp_configure">动态IP配置</string>
+    <string name="eth_static_configure">静态IP配置</string>
+    <string name="eth_ip_address">IP地址</string>
+    <string name="eth_ip_string">0.0.0.0</string>
+    <string name="eth_mac_address">物理地址</string>
+    <string name="eth_mac_string">00:00:00:00:00:00</string>
+    <string name="eth_mask_address">网络前缀长度</string>
+    <string name="eth_mask_string">255.255.255.255</string>
+    <string name="eth_dns1_address">DNS1</string>
+    <string name="eth_dns1_string">0.0.0.0</string>
+    <string name="eth_dns2_address">DNS2</string>
+    <string name="eth_dns2_string">0.0.0.0</string>
+    <string name="eth_gw_address">默认网关</string>
+    <string name="eth_gw_string">0.0.0.0</string>
+    <string name="eth_errStaticIp">无效静态IP,请检查!</string>
+    <string name="eth_dev_summaryoff">未连接</string>
+    <string name="eth_dev_summaryon">已连接 -- 使用设备: </string>
+    <string name="eth_ok">确定</string>
+    <string name="eth_cancel">取消</string>
+    <string name="eth_connect_mode">连接模式</string>
+    <string name="eth_mode_dhcp">DHCP 模式</string>
+    <string name="eth_mode_static">静态IP模式</string>
+    <string name="eth_info">连接信息</string>
+    <string name="eth_off">要查看可用网络，请打开以太网。</string>
+    <!-- DHCP -->
+    <string name="dhcp_setting_user">用户名</string>
+    <string name="dhcp_setting_password">密码</string>
+    <string name="dhcp_use_ipoe">使用IPoE</string>
+    <!-- End ethernet configure -->
+</resources>
